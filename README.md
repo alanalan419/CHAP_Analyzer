@@ -1,2 +1,2 @@
 # CHAP_Analyzer
-Rscript used to manipulate the CHAP output so that manual data curation is reduced. This can help users select individuals that have editing profiles of interest. 
+Rscript used to manipulate the CHAP output so that manual data curation is reduced. This can help users select individuals that have editing profiles of interest. The script reads in CHAP and CHAP.Stats files from a specific SRU run. These files are merged in order to associate PED-IDs, Aliases, and Pedigrees housed in Chap.stats with the Deletion information housed in CHAP. The merged data underges a series of modifications to be able to perform analysis on Specific PED-IDs with the Boosted gene targets. 
