@@ -1,7 +1,7 @@
 # CHAP_Analyzer
 Prerequisites
 1. Rstudio
-2. package dplyr installed in Rstudio
+2. dplyr package installed in Rstudio
 3. GoogleDrive sinked to your make book so you can run this script locally
 
 Rscript used to manipulate the CHAP output so that manual data curation is reduced. This can help users select individuals that have editing profiles of interest. 
