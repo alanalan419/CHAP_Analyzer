@@ -2,7 +2,7 @@
 Prerequisites
 1. Rstudio
 2. dplyr package installed in Rstudio
-3. GoogleDrive sinked to your make book so you can run this script locally
+3. GoogleDrive sinked to your mac book so you can run this script locally
 
 Rscript used to manipulate the CHAP output so that manual data curation is reduced. This can help users select individuals that have editing profiles of interest. 
 The script reads in CHAP and CHAP.Stats files from a specific SRU run. These files are merged in order to associate PED-IDs, Aliases, and Pedigrees housed in Chap.stats with the Deletion information housed in CHAP. 
